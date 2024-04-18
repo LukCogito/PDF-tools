@@ -1,4 +1,4 @@
-# A script for extraction, formating and saving txt from PDF
+# A script for extraction, formatting and saving txt from PDF
 # Author:
 #  _          _       ____            _ _        
 # | |   _   _| | __  / ___|___   __ _(_) |_ ___  
